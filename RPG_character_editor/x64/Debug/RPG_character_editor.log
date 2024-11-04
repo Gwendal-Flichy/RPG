@@ -1,0 +1,3 @@
+﻿  main.cpp
+MSVCRTD.lib(exe_main.obj) : error LNK2019: symbole externe non résolu main référencé dans la fonction "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\gflichy\source\repos\RPG_\RPG\x64\Debug\RPG_character_editor.exe : fatal error LNK1120: 1 externes non résolus
